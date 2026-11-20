@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Casa do Capitão — conceito">
+  <rect width="64" height="64" rx="12" fill="#0E2A22"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#C8A35A" stroke-width="1.5"/>
+  <text x="32" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#C8A35A" text-anchor="middle">C</text>
+</svg>
